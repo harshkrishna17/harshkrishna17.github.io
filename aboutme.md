@@ -29,6 +29,7 @@ I have been an active member of the twitter football/soccer analytics community 
 - Data analysis (dplyr, tidyr)
 - Machine Learning (Linear regression, Random forest, k-means, GMM)
 - Modelling (tidymodels)
+- Interactive apps (Shiny)
 - R Markdown
 
 ## Python Skills
