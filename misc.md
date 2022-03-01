@@ -15,6 +15,12 @@ An analysis and visualization R package that works with publicly available socce
 - Contributed additional features to function `plot_shot` that allows user's to plot player shot maps. 
 - Helped with the creation of the package's website, *writing guides* for the usage of specific functions. 
 
+## [Player Finishing Overview](https://harshkrishna.shinyapps.io/PlayerFinishingOverview/?_ga=2.261886797.1933554447.1646064464-894996437.1645865622)
+
+- Interactive web app that generates a dashboard of visualizations that can be useful in getting an overview of a football player's finishing ability.
+- Deployed using shinyapps.io on free tier.
+- [Link to the GitHub repo so that the app can be deployed on local system.](https://github.com/harshkrishna17/PlayerFinishingOverviewShiny)
+
 ## [Clustering soccer passes using k-means](https://github.com/harshkrishna17/K-means-Clustering-of-Passes-in-R)
 
 - Clustered football player passes using the k-means algorithm. The data from the StatsBomb open dataset. 
