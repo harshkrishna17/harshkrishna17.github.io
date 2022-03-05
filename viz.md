@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Visualizations
+subtitle: Collection of all my data visualizations
 ---
 
 # Python Plots 
