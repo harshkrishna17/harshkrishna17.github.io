@@ -1,3 +1,8 @@
+---
+layout: page
+title: Visualizations
+---
+
 # Python Plots 
 Created in Jupyter Notebooks 
 
