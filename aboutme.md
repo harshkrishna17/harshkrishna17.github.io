@@ -4,7 +4,7 @@ title: About me
 subtitle: Get to know more about me!
 ---
 
-Hey there! My name is Harsh Krishna and I am a 17 year old school student in India. I live in New Delhi and when I'm not busy with school work, I spend my time all around obssessing over the sport of football. 
+Hey there! My name is Harsh Krishna and I am a school student in India. When I'm not busy with school work, I spend my time all around obssessing over the sport of football. 
 
 I have been an active member of the twitter football/soccer analytics community since the April of 2021, making **data visualizations**, talking **tactics** and sharing a general love of the game with several different people. The main programs I work with are **RStudio**, **VS Code** and **Tableau Public**. This website serves as a place where all my work can be easily accessed.
 
