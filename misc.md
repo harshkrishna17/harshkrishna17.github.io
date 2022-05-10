@@ -11,9 +11,10 @@ This is a collection of my best work and open source projects I have contributed
 
 An analysis and visualization R package that works with publicly available soccer data.
 
-- Added functions `plot_pizza`, `plot_trendline` and `plot_timeline` to the **ggshakeR** package allowing user's to plot graphs with minimal code in R.
+- Added functions `plot_pizza`, `plot_trendline` and `plot_timeline` to the **ggshakeR** package allowing users to plot graphs with minimal code in R.
 - Contributed additional features to function `plot_shot` that allows user's to plot player shot maps. 
 - Helped with the creation of the package's website, *writing guides* for the usage of specific functions. 
+- Creator and maintainer of the package's secondary website which serves as a place to hold code and guides for various R plots and techniques. Check out the [ggshakeR library here](https://ggshaker.github.io/). 
 
 ## [Player Finishing Overview](https://harshkrishna.shinyapps.io/PlayerFinishingOverview/?_ga=2.261886797.1933554447.1646064464-894996437.1645865622)
 
