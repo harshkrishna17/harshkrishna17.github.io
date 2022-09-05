@@ -11,16 +11,21 @@ This is a collection of my best work and open source projects I have contributed
 
 An analysis and visualization R package that works with publicly available soccer data.
 
-- Added functions `plot_pizza`, `plot_trendline` and `plot_timeline` to the **ggshakeR** package allowing users to plot graphs with minimal code in R.
-- Contributed additional features to function `plot_shot` that allows user's to plot player shot maps. 
-- Helped with the creation of the package's website, *writing guides* for the usage of specific functions. 
-- Creator and maintainer of the package's secondary website which serves as a place to hold code and guides for various R plots and techniques. Check out the [ggshakeR library here](https://ggshaker.github.io/). 
+- Authored **5** functions and contributed additional features to an extra **3** functions while working with other contributors as an open source project. Functions are compatible with **JSON data** and **specific APIs** while also supporting the use of web scraped data.
+- Helped create an official landing page with GitHub Pages that experiences an average of **800+** views and **100+** unique visitors per week. Initial release and updates invite upwards of **1000+** views on the package.
+- Created the [ggshakeR library](https://ggshaker.github.io/), a secondary website with articles and a helper code base pertaining to the usage of R in sports analytics. 
 
 ## [Player Finishing Overview](https://harshkrishna.shinyapps.io/PlayerFinishingOverview/?_ga=2.261886797.1933554447.1646064464-894996437.1645865622)
 
 - Interactive web app that generates a dashboard of visualizations that can be useful in getting an overview of a football player's finishing ability.
 - Deployed using shinyapps.io on free tier.
 - [Link to the GitHub repo so that the app can be deployed on local system.](https://github.com/harshkrishna17/PlayerFinishingOverviewShiny)
+
+## [Squad Composition App](https://harshkrishna.shinyapps.io/SquadCompositionApp/)
+
+- Interactive web app that creates a visualization depicting the composition of squads in top European leagues.
+- Deployed using shinyapps.io on free tier.
+- [Link to the GitHub repo so that the app can be deployed on local system.](https://github.com/harshkrishna17/Squad-Composition-App-) 
 
 ## [Clustering soccer passes using k-means](https://github.com/harshkrishna17/K-means-Clustering-of-Passes-in-R)
 
