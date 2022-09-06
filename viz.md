@@ -4,23 +4,6 @@ title: Visualizations
 subtitle: Collection of all my data visualizations
 ---
 
-# Python Plots 
-Created in Jupyter Notebooks 
-
-Basic Shot Map with matplotlib
-
-![shotm](https://user-images.githubusercontent.com/87293901/147869671-98197e9f-c8c8-48e6-a5e9-58186617e9a8.png)
-
-![shotma](https://user-images.githubusercontent.com/87293901/147869681-d32a505a-1364-4a9d-acf1-63575addf7d2.png)
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-xG Trendline using StatsBomb/FBref data
-
-![image](https://user-images.githubusercontent.com/87293901/150665917-122ffec7-84ed-41f5-ae8a-021281ee733d.png)
-
-
-
 # R Plots
 All plots created in Rstudio using ggplot2.
 
@@ -29,11 +12,11 @@ Waffle plot on how Premier League teams conceded goals in the 2021/22 season.
 
 ![image](https://user-images.githubusercontent.com/87293901/150677199-9714ed50-e469-4261-bf41-28bd77728bc2.png)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Polar shot map of Messi's career shots.
 
-![polarshotmap](https://user-images.githubusercontent.com/87293901/188635061-eae68ff8-3949-4f26-9966-0cd1a6ff63a6.png)
+![polarshotmap](https://user-images.githubusercontent.com/87293901/188641737-33e2b46d-5234-42be-8f81-058d5b6e0b99.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -113,7 +96,7 @@ Bumpy chart of the 2021/22 PL season.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Dumbbell chart showing the performance on xGD in the Premier League 2021/22
+Dumbbell chart showing the performance on xGD in the Premier League 2021/22.
 
 ![image](https://user-images.githubusercontent.com/87293901/188636489-a708afa8-5be1-4d44-b548-c6301b766c0b.png)
 
@@ -129,17 +112,29 @@ Line chart showing the trend of Man Utd's SPI over the years of 2016-2020.
 
 ![man utd line](https://user-images.githubusercontent.com/87293901/127998521-ac106034-162e-4a7c-881b-03ce9398e7d5.png)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Dumbbell chart plotting the performance of Ligue 1 teams with respect to their GD and xGD.
-
-![image](https://user-images.githubusercontent.com/87293901/126057480-5c496095-324d-4a48-9b14-551e4db1157b.png)
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Vizualizing how finishing varies over time with Danny Ings as an example.
 
 ![Rplot93](https://user-images.githubusercontent.com/87293901/128620853-d4508695-d560-4ffd-b34a-1ea122191333.png)
+
+
+
+# Python Plots 
+
+Created in Jupyter Notebooks 
+
+Basic Shot Map with matplotlib
+
+![shotm](https://user-images.githubusercontent.com/87293901/147869671-98197e9f-c8c8-48e6-a5e9-58186617e9a8.png)
+
+![shotma](https://user-images.githubusercontent.com/87293901/147869681-d32a505a-1364-4a9d-acf1-63575addf7d2.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+xG Trendline using StatsBomb/FBref data
+
+![image](https://user-images.githubusercontent.com/87293901/150665917-122ffec7-84ed-41f5-ae8a-021281ee733d.png)
 
 
 
