@@ -17,7 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Visualizations: "viz"
   Projects: "misc"
-  Resume: "file:///C:/Users/harsh_1mwi2o4/Downloads/Harsh's%20Resume%20.pdf"
+  Resume: "https://drive.google.com/file/d/16_54al4H0jzRYjY5GM5VGoa-CqyC-8rX/view?ths=true"
 
 # --- Logo --- #
 
@@ -40,8 +40,8 @@ social-network-links:
   github: harshkrishna17
   twitter: veryharshtakes
   medium: harshkrishna17
- # linkedin: harsh-krishna-5b6664219
-#  stackoverflow: "16500239/harsh-krishna"
+  linkedin: harsh-krishna-5b6664219
+  stackoverflow: "16500239/harsh-krishna"
 #  reddit: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
