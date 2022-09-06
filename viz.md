@@ -31,6 +31,30 @@ Waffle plot on how Premier League teams conceded goals in the 2021/22 season.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Polar shot map of Messi's career shots.
+
+![polarshotmap](https://user-images.githubusercontent.com/87293901/188635061-eae68ff8-3949-4f26-9966-0cd1a6ff63a6.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Diamond scatterplot of EPV in the 2003/04 PL season.
+
+![image](https://user-images.githubusercontent.com/87293901/188635971-97314b2c-ae66-4ba1-8a86-d1d8c3f43817.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Squad composition of Manchester United before the 2022/23 season. 
+
+![Manchester United (3)](https://user-images.githubusercontent.com/87293901/188635349-5ac7de6e-2e33-4db3-a3e0-23ab07964364.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Timeline flow chart of Liverpool vs. Manchester United in the 2021/22 season.
+
+![image](https://user-images.githubusercontent.com/87293901/188635703-1c6333dc-a024-4bbb-9936-7657138698f4.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Comet Chart showing the difference in npxG of teams in two seasons.
 
 ![comet](https://user-images.githubusercontent.com/87293901/147869701-d2ef0816-872d-4c4b-9f1f-584efbf625b7.png)
@@ -49,9 +73,15 @@ Passflow map of Borussia Dortmund 2020/21 [Made using ggshakeR]
 
 ![image](https://user-images.githubusercontent.com/87293901/141329934-46d7f982-cf11-4be9-a093-a2207a375a46.png)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Pizza plots (single player and comparison type) of specific player's using StatsBomb/FBref data
+Pass Network of FC Barcelona in a La Liga Match. (Designed function for use in the ggshakeR package)
+
+![image](https://user-images.githubusercontent.com/87293901/188637355-a7115e53-a6fa-473e-ba2b-10ac43261016.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Pizza plots (single player and comparison type) of specific player's using StatsBomb/FBref data. (Designed function for use in the ggshakeR package)
 
 ![image](https://user-images.githubusercontent.com/87293901/140862887-74f99485-790e-466a-9a59-82fe5fa64fa6.png)
 
@@ -63,17 +93,29 @@ Pass Sonar's of specific player's using event data [2020/21, Dortmund, Bundeslig
 
 ![image](https://user-images.githubusercontent.com/87293901/141331097-59d0f29f-98db-4a70-9d58-235b645ae0da.png)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Player finishing dashboard of Edinson Cavani. 
+
+![3294 (33)](https://user-images.githubusercontent.com/87293901/188636911-686025cc-a41b-49a8-949c-bb2bc40c8a04.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Cumulative transfer spendings of Premier League clubs from 1992-2021
 
 ![transferviz](https://user-images.githubusercontent.com/87293901/133718461-9a41e487-acb1-4b5a-a436-40ac54c9b466.png)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Dumbbell chart showing the spread of minutes played by Mason Greenwood over the course of his career.
+Bumpy chart of the 2021/22 PL season.
 
-![Rplot89](https://user-images.githubusercontent.com/87293901/128620874-04c7c804-11d2-4358-9873-c2d077aad8ec.png)
+![image](https://user-images.githubusercontent.com/87293901/188636204-dc215e90-ef0b-49ee-a394-781b60fdfd77.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dumbbell chart showing the performance on xGD in the Premier League 2021/22
+
+![image](https://user-images.githubusercontent.com/87293901/188636489-a708afa8-5be1-4d44-b548-c6301b766c0b.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
