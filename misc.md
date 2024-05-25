@@ -7,6 +7,17 @@ This is a collection of my best work and open source projects I have contributed
 
 (PS. The title's are links. Click on them!)
 
+## [R Masterclass](https://trainingground.guru/articles/new-course-r-masterclass)
+
+Conducted an online class via Training Ground Guru, a site focused on the latest developments in the
+professional football world.
+
+- The class introduced participants to R and RStudio and showed how they can be used with football event
+data.
+- Interactive follow-along session over Zoom that lasted over 2 hours and 30 minutes.
+- Live class attended by several individuals including hobbyists and data professionals working in the football
+industry.
+
 ## [ggshakeR](https://abhiamishra.github.io/ggshakeR/)
 
 An analysis and visualization R package that works with publicly available soccer data.
