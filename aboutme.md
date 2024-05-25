@@ -22,6 +22,7 @@ I have been an active member of the twitter football/soccer analytics community 
 - RStudio
 - Microsoft Excel
 - Git (Version Control)
+- LaTeX
 
 ## R Skills
 
