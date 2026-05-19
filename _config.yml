@@ -17,7 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Visualizations: "viz"
   Projects: "misc"
-  Resume: "https://drive.google.com/file/d/1QyK62j8dirLxoyMwJV_zx1I5BGcaUwY7/view?usp=sharing"
+  Resume: "https://drive.google.com/file/d/1hgw3z0HpbBBSTcOBUoUDxtR90udAbajz/view?usp=sharing"
 
 # --- Logo --- #
 
@@ -96,17 +96,17 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#478559"
+navbar-col: "#331832"
 navbar-text-col: "#EEFBFB"
-navbar-border-col: "#161748"
-page-col: "#EEFBFB"
+navbar-border-col: "#D81E5B"
+page-col: "#C6D8D3"
 text-col: "#000000"
-link-col: "#f95d9b"
-hover-col: "#4DA8DA"
-footer-col: "#161748"
+link-col: "#D81E5B"
+hover-col: "#F0544F"
+footer-col: "#331832"
 footer-text-col: "#EEFBFB"
-footer-link-col: "#161748"
-footer-hover-col: "#4DA8DA"
+footer-link-col: "#D81E5B"
+footer-hover-col: "#F0544F"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
